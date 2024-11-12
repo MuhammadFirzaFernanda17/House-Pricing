@@ -1,0 +1,6 @@
+https://pandas.pydata.org/
+https://seaborn.pydata.org/
+https://matplotlib.org/
+https://joblib.readthedocs.io/
+https://streamlit.io/
+https://scikit-learn.org/stable/
